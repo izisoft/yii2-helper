@@ -1,5 +1,5 @@
 {
-	"name" : "izisoft/yii2-helpers",
+	"name" : "izisoft/yii2-helper",
 	"description" : "Yii2 extention",
 	"type" : "yii2-extension",
 	"keywords" : [
@@ -28,7 +28,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"izi\\helpers\\" : ""
+			"izi\\helper\\" : ""
 		}
 	},
 	"homepage" : "https://iziweb.net"	
