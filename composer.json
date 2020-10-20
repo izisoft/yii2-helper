@@ -31,10 +31,5 @@
 			"izi\\helpers\\" : ""
 		}
 	},
-	"homepage" : "https://iziweb.net",
-	"extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-		}
-	}	
+	"homepage" : "https://iziweb.net"	
 }
