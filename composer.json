@@ -28,7 +28,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"izi\\helpers\\" : "src"
+			"izi\\helpers\\" : ""
 		}
 	},
 	"homepage" : "https://iziweb.net",
